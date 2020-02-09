@@ -31,8 +31,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Contact Information
+```
 for page support contact 
 Joseph Viccora
 joe@libertasfunding.com
 526-497-3980
+```
 
